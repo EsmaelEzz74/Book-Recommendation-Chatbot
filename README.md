@@ -23,7 +23,7 @@ We've harnessed the power of the CMU Book Summary Dataset on Kaggle, comprising 
 A heartfelt shoutout to our incredible team members:
 
 - [Ahmed Badawy](https://github.com/ahmedbadawy11)
-- [Esmael Ezz](https://github.com/EsmaelEzz74)
+- [ِAnas Elbattra](https://github.com/AnasElbattra)
 - [Yousef Shindy](https://github.com/yousefshindy)
 
 ## 🏃 Running the Code
